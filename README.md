@@ -24,7 +24,7 @@ This project is a simple appointment scheduling system built with PHP, Nginx, My
 ### Clone the Repository
 
 ```sh
-git clone <repository_url>
+git clone ["https://github.com/behnamhosseini/appointment"]
 cd appointment_scheduler
 ```
 
